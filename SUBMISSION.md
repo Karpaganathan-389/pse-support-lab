@@ -2,7 +2,7 @@
 
 - **Name:** Karpaganathan M.
 - **Date submitted:** 14 November 2026
-- **Repository link:** Pending GitHub upload
+- - **Repository link:** https://github.com/Karpaganathan-389/pse-support-lab
 - **Total time spent (real time):** Approximately 6 hours
 
 > Replies below are drafts written on the **exercise clock** (Monday 16 November 2026, Asia/Dubai). Keep your real time in the time log at the end. Put screenshots, log excerpts and query output in `evidence/` and link to them.
@@ -229,7 +229,7 @@ Incident 2 was partially investigated. Available historical monitoring data did 
   1. `evidence/incident-3-invoice-0042-rejection.png` — portal rejection and BR-CO-15 details.
   2. `evidence/incident-3-pint-totals-code.png` — PINT totals-generation code.
   3. ASP response message ID: `8ed3e78b-5f72-4fd3-9e42-f3f246fc100f`.
-  
+
 - **Confidence and open questions:** High confidence in the payload-level total mismatch for invoice 0042. The exact code-level rounding cause is not yet confirmed. The same payload comparison should be completed for rejected invoices 0044 and 0046 before concluding that all three share the same cause.
 
 ### Customer resolution reply OR escalation note
